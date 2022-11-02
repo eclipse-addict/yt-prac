@@ -1,4 +1,4 @@
-# youtube-pjt
+# yt-api-prac
 
 ## Project setup
 ```
